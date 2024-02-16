@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    background-color: #00a884;
+    height: 222px;
+    width: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #f0f2f5;
+}
+
+.landing-window {
+    
+    width: 50%;
+    height: 330px;
+    border: solid 3px black;
+    
+}
