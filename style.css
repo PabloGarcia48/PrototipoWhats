@@ -16,7 +16,7 @@ header {
 header img {
     margin-top: 20px;
     width: 70px;
-    border-radius: 10px;
+    border-radius: 35px 35px 35px 5px;
 }
 
 span {
